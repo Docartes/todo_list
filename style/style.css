@@ -1,0 +1,23 @@
+p {
+	font-family: "Itim", cursive;
+}
+
+body {
+	font-family: "Manrope";
+}
+
+label {
+	width: 200px;
+}
+
+a {
+	margin-left: -15px;
+}
+
+.btn {
+	margin-top: -95px;
+}
+
+.row:nth-child(2) {
+	height: 120px;
+}
